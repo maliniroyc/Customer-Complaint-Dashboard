@@ -1,4 +1,4 @@
-# Consumer-Insights-Dashboard
+# Customer Complaint Dashboard
 
 The Consumer Complaints Dataset is a structured collection of 14,000 complaints filed by customers regarding financial products and services. It is designed to analyze consumer grievances, company responses, and resolution efficiency. The dataset helps in identifying patterns in customer complaints, dispute trends, resolution times, and company performance across different financial institutions.
 
